@@ -1,0 +1,6 @@
+  git --version
+  git init
+  222  git check
+  224  git status
+  225  git add testing.py
+  229  sudo git commit -m "adding testing files"
